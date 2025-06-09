@@ -1,6 +1,7 @@
-                                                    Tecnicatuta en Programación a Distancia.UTN
-                                                                 -Programacion 1-
-                                                              Trabajo de Integración 
+
+                    Tecnicatuta en Programación a Distancia.UTN
+                                -Programacion 1-
+                             Trabajo de Integración 
                                                          
 -Descripción-
 Este trabajo explorará el uso de listas anidadas para construir, recorrer y manipular árboles, facilitando la comprensión de su estructura y comportamiento.
